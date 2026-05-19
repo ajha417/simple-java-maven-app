@@ -23,7 +23,7 @@ pipeline {
         }
         stage('Complete') {
             steps {
-                echo 'Completing the job!!'
+                echo 'Completing the job for testing purpose!!'
             }
         }
     }
